@@ -1,4 +1,5 @@
 Challenge Portafolio - Alura Latam
+
 ¡Hola! Soy Lucas Ramírez, estudiante de Alura Latam, y este repositorio es parte del "challenge portafolio" del curso de desarrollo web. La idea detrás de este desafío es crear un portafolio personal en el que podamos mostrar nuestros proyectos, avances y conocimientos adquiridos a lo largo del programa. Este reto me permitió no solo mejorar mis habilidades técnicas, sino también aprender a organizar y presentar mi trabajo de forma efectiva.
 
 Acerca del Challenge
